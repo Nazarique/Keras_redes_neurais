@@ -19,10 +19,10 @@ Então meus queridos, estou deixando aqui minha contribuição sobre um tema que
 Aqui temos alguns conjuntos de dados para classificação, mas já vou adiantar que o menor dataset tem 4898 dados, e o maior tem 28056 dados, é uma diferença pequena comparada com o que fazemos na vida.
 
 Dados:
-[Wine]("https://archive.ics.uci.edu/ml/datasets/Wine+Quality"), [Bank]("https://archive.ics.uci.edu/ml/datasets/Bank+Marketing"), [Shuttle]("https://archive.ics.uci.edu/ml/datasets/Statlog+%28Shuttle%29"), [Poker]("https://archive.ics.uci.edu/ml/datasets/Poker+Hand"), [Chess]("https://archive.ics.uci.edu/ml/datasets/Chess+%28King-Rook+vs.+King%29")
+[Wine](https://archive.ics.uci.edu/ml/datasets/Wine+Quality), [Bank](https://archive.ics.uci.edu/ml/datasets/Bank+Marketing), [Shuttle](https://archive.ics.uci.edu/ml/datasets/Statlog+%28Shuttle%29), [Poker](https://archive.ics.uci.edu/ml/datasets/Poker+Hand), [Chess](https://archive.ics.uci.edu/ml/datasets/Chess+%28King-Rook+vs.+King%29)
 
 Para ajudar a testar as MLP:
-[Tic-Tac-Toe+Endgame]("https://archive.ics.uci.edu/ml/datasets/Tic-Tac-Toe+Endgame"), [Cloud]("https://archive.ics.uci.edu/ml/datasets/Cloud"), [Car]("https://archive.ics.uci.edu/ml/datasets/Car+Evaluation"), [Iris]("https://archive.ics.uci.edu/ml/datasets/Iris")
+[Tic-Tac-Toe+Endgame](https://archive.ics.uci.edu/ml/datasets/Tic-Tac-Toe+Endgame), [Cloud](https://archive.ics.uci.edu/ml/datasets/Cloud), [Car](https://archive.ics.uci.edu/ml/datasets/Car+Evaluation), [Iris](https://archive.ics.uci.edu/ml/datasets/Iris)
 
 ------
 
